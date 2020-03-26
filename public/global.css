@@ -1,0 +1,23 @@
+html {
+	font-size: 16px;
+}
+
+button {
+	background: red;
+	border: 0;
+	color: #ffffff;
+	padding: 0.5rem;
+}
+
+button:disabled {
+	background: #cfcfcf;
+}
+
+body {
+	font-family: 'Roboto';
+}
+
+h1 {
+	font-size: 2rem;
+	font-weight: bold;
+}
